@@ -1,1 +1,35 @@
 /build
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
+# Build/Maven #
+###############
+**/target/
+# Eclipse #
+###########
+.project
+.classpath
+.settings
+**/bin/
+.metadata/
+# IntelliJ #
+############
+.idea/
+*.iml
+
+gradle
+.DS_Store
+.externalNativeBuild
+app/build/
+local.properties
+captures
+/out/
